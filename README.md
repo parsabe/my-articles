@@ -4,10 +4,12 @@ Welcome to the Tech Insights Repository! This repository features four in-depth 
 
 ## Articles
 
-1. [Data Mining Usage in CRM](#data-mining-usage-in-crm)
-2. [Synergy of Blockchain](#synergy-of-blockchain)
-3. [QCA](#quantum-computing-and-algorithms-qca)
-4. [An Analysis on Vulnerabilities (Vuls)](#an-analysis-on-vulnerabilities-vuls)
+1. Data Mining Usage in CRM
+2. Synergy of Blockchain
+3. QCA
+4. An Analysis on Vulnerabilities (Vuls)
+5. Huffman Algorithm
+
 
 
 
