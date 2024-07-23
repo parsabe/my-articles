@@ -7,8 +7,9 @@ Welcome to the Tech Insights Repository! This repository features four in-depth 
 1. Data Mining Usage in CRM
 2. Synergy of Blockchain
 3. QCA
-4. An Analysis on Vulnerabilities (Vuls)
+4. An Analysis of Vulnerabilities (Vuls)
 5. Huffman Algorithm
+6. AI and Blockchain, Enhancing Security, Transparency, and Integrity
 
 
 
