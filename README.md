@@ -1,1 +1,23 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=124&color=0:020024,48:580078,100:000000&reversal=true&textBg=false&section=header&descAlign=100&descAlignY=100">
+
+<div align="center">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=B60000&center=true&width=435&lines=Hello+Friend." alt="Typing SVG" /></a>
+
+
+[![Telegram](https://img.shields.io/badge/Telegram-2EA2D8?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/Hounaar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A63BC?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/parsabe)
+[![Outlook Email](https://img.shields.io/badge/Outlook-590091?style=for-the-badge&logo=gmail&logoColor=black)](mailto:parsabe99@outlook.com)
+[![Spotify Playlist](https://img.shields.io/badge/Spotify-1DD05D?style=for-the-badge&logo=spotify&logoColor=black)](https://open.spotify.com/playlist/3UZ2YKsrUQpSwY54p6Zjgf?si=f20351ec6a1e4294)
+
+  
+<div style="display: flex;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 65px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 65px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 65px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 65px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 65px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 65px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 0px; margin-bottom: 0px;" /></div>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsabe&layout=pie&bg_color=0d0d2b&title_color=ff79c6&text_color=ffffff&icon_color=ff79c6&border_color=4b0082&langs_count=8">[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31agnkou56q6es2iqmijzzxrhpfu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=40008f)](https://github.com/kittinan/spotify-github-profile)
+
+
+
+
+</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=124&color=0:020024,48:580078,100:000000&reversal=true&textBg=false&section=footer&descAlign=100&descAlignY=100">
 
