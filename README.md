@@ -1,8 +1,7 @@
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=124&color=0:020024,48:580078,100:000000&reversal=true&textBg=false&section=header&descAlign=100&descAlignY=100">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020024,20:000000,50:580078,79:000000,100:000000&text=Hello%20Friend&animation=fadeIn&descAlignY=100&descAlign=100&fontColor=B60000&fontAlignY=37&fontAlign=50&reversal=false">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=B60000&center=true&width=435&lines=Hello+Friend." alt="Typing SVG" /></a>
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-2EA2D8?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/Hounaar)
@@ -13,7 +12,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsabe&layout=compact&bg_color=0d0d2b&title_color=ff79c6&text_color=ffffff&icon_color=ff79c6&border_color=4b0082&langs_count=8">
 <br/><br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=124&color=0:020024,48:580078,100:000000&reversal=true&textBg=false&section=header&descAlign=100&descAlignY=100">
+
 
 
 </div>
