@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Step 1: Download and unzip GitHub zip file
-GITHUB_ZIP_URL="https://github.com/parsabe/parsabe/tree/main/conf/main.zip"  # Replace with the actual URL
+GITHUB_ZIP_URL="https://github.com/parsabe/parsabe/blob/main/conf/ant.zip"  # Replace with the actual URL
 ZIP_FILE="theme.zip"
 THEME_FOLDER="ant-nubula"
 THEME_DEST_DIR="$HOME/.themes"
