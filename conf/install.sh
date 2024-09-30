@@ -66,7 +66,7 @@ sudo apt update
 
 # Step 3: Neovim configuration setup
 # Define the URL for the init.vim file (replace with the actual URL)
-INIT_VIM_URL="https://github.com/parsabe/parsabe/tree/main/conf/init.vim"  # Replace with the actual URL
+INIT_VIM_URL="https://github.com/parsabe/parsabe/blob/main/conf/init.vim"  # Replace with the actual URL
 
 # Define the Neovim config directory
 NVIM_CONFIG_DIR="$HOME/.config/nvim"
