@@ -1,8 +1,5 @@
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=391558&text=Hello%20Friend&animation=fadeIn&descAlignY=100&descAlign=100&fontColor=B60000&fontAlignY=37&fontAlign=50&reversal=false">
-
-
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A63BC?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/parsabe)
